@@ -14,4 +14,4 @@ Note that you have to have ngrok installed and a static ngrok domain.
 pip install -r requirements.txt
 ```
 
-### Enjoj!
+### Enjoy!
