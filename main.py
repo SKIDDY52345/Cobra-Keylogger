@@ -20,7 +20,7 @@ while True:
  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀   ▀         ▀  ▀         ▀ 
                                                                     \n''')
 
-    print(Fore.LIGHTGREEN_EX + "Log Keys[1] Build Keylogger[2]")
+    print(Fore.LIGHTGREEN_EX + "Log Keys[1] | Build Keylogger[2]")
     option = input(Fore.LIGHTGREEN_EX + ">> ")
 
     if option=="1":
